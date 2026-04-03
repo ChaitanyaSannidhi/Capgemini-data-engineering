@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Data Cleaning using PySpark and MySQL</title>
 </head>
 
 <body>
